@@ -12,8 +12,9 @@ This project demonstrates the development and deployment of a machine learning m
 To run the notebooks, ensure you have Apache Spark and PySpark installed.
 
 1. Clone the repository.
-2. Open the notebooks in Jupyter Notebook or JupyterLab.
-3. Follow the instructions in each notebook.
+2. Download the dataset from [this link](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
+3. Open the notebooks in Jupyter Notebook or JupyterLab.
+4. Follow the instructions in each notebook.
 
 ## Technologies Used
 
